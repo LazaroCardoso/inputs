@@ -1,0 +1,11 @@
+.terceiro__components {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.terceiro__components input {
+    width: 285px;
+    height: 36px;
+}
